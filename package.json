@@ -1,0 +1,28 @@
+{
+  "name": "html-stringify",
+  "version": "0.0.1",
+  "description": "Converts Javascript Objects or Arrays to pretty HTML string for rendering in a browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JedWatson/html-stringify.git"
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "pretty",
+    "debug",
+    "html"
+  ],
+  "author": "Jed Watson",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6da79a96853af54110a71199cfad703fea9f149d",
+  "bugs": {
+    "url": "https://github.com/JedWatson/html-stringify/issues"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
