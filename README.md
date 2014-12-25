@@ -27,3 +27,5 @@ Then:
     };
     
     var output = htmlStringify(myObj);
+    
+For a client-side implementation, see [react-domify](https://github.com/JedWatson/react-domify)
