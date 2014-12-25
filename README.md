@@ -27,5 +27,3 @@ Then:
     };
     
     var output = htmlStringify(myObj);
-
-*Browser usage coming soon*
