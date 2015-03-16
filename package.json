@@ -1,6 +1,6 @@
 {
   "name": "html-stringify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Converts Javascript Objects or Arrays to pretty HTML string for rendering in a browser",
   "main": "index.js",
   "repository": {
